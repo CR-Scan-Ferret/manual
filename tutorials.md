@@ -1,8 +1,6 @@
 # Tutorials on CR-Scan Ferret
 
-**Content**
-
-![Untitled](pic/Untitled.png)
+![Untitled](pic/cover.jpg)
 
 # Introduction
 
@@ -32,7 +30,7 @@ On the other hand, objects like portrait sculptures, shoes, or doll models have 
 
 **Accuracy**
 
-If you want to obtain better details, do not hesitate to choose “Hi-Quality”. If your computer has a dedicated graphics card （i.e. GPU）, the Hi-Quality mode will provide smoother performance.
+If you want to obtain better details, do not hesitate to choose “Hi-Quality”. If your computer has a dedicated graphics card (i.e. GPU), the Hi-Quality mode will provide smoother performance.
 
 For large objects or lower computer specifications, you can choose "Fast Mode“ for scanning.
 
