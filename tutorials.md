@@ -184,7 +184,7 @@ It is recommended to use the Marker Mode for scanning. In the case below, approx
 
 Note that transparent headlights, if not powder sprayed, will cause hollow holes in the generated 3D model at this area.
 
-![Untitled](pic/Untitled%2014.png)
+![Untitled](pic/Untitled%2014.jpg)
 
 ***Scan settting：**Large Object, Marker Mode, Hi-Quality, Resolution 0.8mm.* 
 
@@ -216,7 +216,7 @@ In this example, the dimensions of the engine hood panel are 592mm x 453mm x 103
 
 The engine hood panel has a largely flat surface with few geometric features. We recommend using the marker point mode for scanning. Place prototype marker points on the surface of the target, and then perform the scan in marker mode. The scanning result is shown below.
 
-![Untitled](pic/Untitled%2018.png)
+![Untitled](pic/Untitled%2018.jpg)
 
 ## Medium objects
 
@@ -257,7 +257,7 @@ For this type of small object, we recommend using Texture Mode for scanning.
 
 It is important to note that you should apply some marker points on the tabletop beforehand, as shown in the image below. 
 
-![Untitled](pic/Untitled%2023.png)
+![Untitled](pic/Untitled%2023.jpg)
 
 Also, make sure not to select the option to “Exclude Flat Base”, as shown at the bottom of the scanning window. The software needs to extract features from the tabletop to merge the point clouds together.
 
@@ -265,7 +265,7 @@ Also, make sure not to select the option to “Exclude Flat Base”, as shown at
 
 The resulting model is as follows:
 
-![Untitled](pic/Untitled%2025.png)
+![Untitled](pic/Untitled%2025.)
 
 **White cup**
 
@@ -287,7 +287,11 @@ The Ferret scanner can be used outdoors when the sunlight intensity is less than
 
 Outdoor Scanning Tutorial:
 
-[https://www.youtube.com/watch?v=7wRZUl936BY](https://www.youtube.com/watch?v=7wRZUl936BY)
+[https://www.youtube.com/watch?v=7wRZUl936BY
+
+[![ferret-car](https://i.ytimg.com/vi/zsrRhbN6XjQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=zsrRhbN6XjQ "ferret-car")
+
+
 
 # More Video Tutorials
 
