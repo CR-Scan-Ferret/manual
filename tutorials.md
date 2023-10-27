@@ -135,8 +135,9 @@ Ferret supports mobile scanning, which offers great portability. Many Android ph
 Each scan can capture only a portion of the object, and then you can use the Multi-Project Merging feature to combine them into a complete model. This is extremely helpful for scanning larger objects.
 
 <div align="center">
- <img src="pic/Untitled%209.png" height="30%">
+ <img src="pic/Untitled%209.png" width="25%">
 </div>
+
 
 How to scan the bottom of an object?
 
@@ -205,7 +206,7 @@ It is recommended to use the Marker Mode for scanning. In the case below, approx
 Note that transparent headlights, if not powder sprayed, will cause hollow holes in the generated 3D model at this area.
 
 <div align="center">
- <img src="pic/Untitled%2014.jpg" width="60%">
+ <img src="pic/Untitled%2014.jpg" width="50%">
 </div>
 
 ***Scan settting：**Large Object, Marker Mode, Hi-Quality, Resolution 0.8mm.* 
@@ -290,14 +291,17 @@ It is important to note that you should apply some marker points on the tabletop
 <div align="center">
  <img src="pic/Untitled%2023.jpg" width="50%">
 </div>
-
 !Also, make sure not to select the option to “Exclude Flat Base”, as shown at the bottom of the scanning window. The software needs to extract features from the tabletop to merge the point clouds together.
 
-![Untitled](pic/Untitled%2024.png)
+<div align="center">
+ <img src="pic/Untitled%2024.png" width="25%">
+</div>
 
 The resulting model is as follows:
 
-![Untitled](pic/Untitled%2025.)
+<div align="center">
+ <img src="pic/Untitled%2025.jpg" width="60%">
+</div>
 
 **White cup**
 
@@ -305,7 +309,9 @@ We can scan the white cup using the Marker mode.
 
 *Scan setting: Small object, Hi-quality, Marker mode, Resolution = 0.3mm.*
 
-![Untitled](pic/Untitled%2026.png)
+<div align="center">
+ <img src="pic/Untitled%2026.png" width="90%">
+</div>
 
 ## **Outdoor Scanning**
 
