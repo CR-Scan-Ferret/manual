@@ -12,7 +12,9 @@ To help new users quickly master the scanner’s operation techniques and achiev
 
 In the Creality Scan software, multiple scanning modes are provided. It is important to choose the appropriate scanning mode for different types of targets.
 
-![image](https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled%201.jpg) 
+<div align=center>
+<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-1.jpg" width="180" height="105"> width="180" height="105"/>
+</div>
 
 **How to choose Feature type?**
 
