@@ -12,7 +12,11 @@ To help new users quickly master the scanner’s operation techniques and achiev
 
 In the Creality Scan software, multiple scanning modes are provided. It is important to choose the appropriate scanning mode for different types of targets.
 
-![Untitled](pic/Untitled%201.jpg)
+```
+<p align="center">
+  <img width="460" src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled%201.jpg">
+</p>
+```
 
 **How to choose Feature type?**
 
@@ -285,11 +289,7 @@ The Ferret scanner can be used outdoors when the sunlight intensity is less than
 
 Outdoor Scanning Tutorial:
 
-[https://www.youtube.com/watch?v=7wRZUl936BY
-
-[![ferret-car](https://i.ytimg.com/vi/zsrRhbN6XjQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=zsrRhbN6XjQ "ferret-car")
-
-
+https://www.youtube.com/watch?v=7wRZUl936BY
 
 # More Video Tutorials
 
