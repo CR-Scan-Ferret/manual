@@ -78,6 +78,10 @@ Sensitivity: The larger this value, the more points can be retained. The smaller
 
 Creality Scan software allows users to perform pointcloud optimization multiple times. For instance, if you are not satisfied with the current optimization results, you can modify the parameters and re-run the pointcloud optimization step.
 
+<div align="center">
+ <img src="pic/table1.png" width="100%">
+</div>
+
 ### **One-click Process**
 
 One-click processing is designed for new users who have little experience with 3D scanners. If you require better scan quality, it is recommended not to use One-click Processing and instead manually adjust the parameters for each processing step.
@@ -100,7 +104,9 @@ During the process of meshing, you can manually configure the number of faces of
 
 The more faces in the mesh, the finer the model, but it also takes longer to generate the mesh.
 
-![Untitled](pic/Untitled%206.png)
+<div align="center">
+ <img src="pic/Untitled%206.png" width="50%">
+</div>
 
 ### **Texturing**
 
@@ -116,15 +122,17 @@ Mobile scanning, PC processing
 
 Ferret supports mobile scanning, which offers great portability. Many Android phones have only 8GB of memory, and the iPhone 12 has only 4GB of memory, while many computers have 16GB of memory. You can choose to scan with your mobile phone first. After completing the scan on your phone, save the model, return to the main interface, then export the project. Later, on your PC, use the "Import Historical Project" feature to import the scanned project file and process it on the computer, thus obtaining a higher-quality 3D model.
 
-<div align=center>
-<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-8.png" width="500"/>
+<div align="center">
+ <img src="pic/Untitled-8.png" width="60%">
 </div>
 
 ### **Multi-project Merging**
 
 Each scan can capture only a portion of the object, and then you can use the Multi-Project Merging feature to combine them into a complete model. This is extremely helpful for scanning larger objects.
 
-![Untitled](pic/Untitled%209.png)
+<div align="center">
+ <img src="pic/Untitled%209.png" height="30%">
+</div>
 
 How to scan the bottom of an object?
 
