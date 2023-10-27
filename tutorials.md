@@ -79,7 +79,7 @@ Sensitivity: The larger this value, the more points can be retained. The smaller
 Creality Scan software allows users to perform pointcloud optimization multiple times. For instance, if you are not satisfied with the current optimization results, you can modify the parameters and re-run the pointcloud optimization step.
 
 <div align="center">
- <img src="pic/table1.png" width="100%">
+ <img src="pic/table1.png" width="80%">
 </div>
 
 ### **One-click Process**
@@ -98,7 +98,9 @@ Creality Scan provides pointcloud editing functionality. After the point cloud o
 
 The meshing operation converts pointcloud data into a triangular mesh model.
 
-![Untitled](pic/Untitled%205.png)
+<div align="center">
+ <img src="pic/Untitled%205.png" width="90%">
+</div>
 
 During the process of meshing, you can manually configure the number of faces of the generated mesh, adjust the level of smoothness of the mesh, and choose whether to fill holes and close the model.
 
@@ -112,7 +114,9 @@ The more faces in the mesh, the finer the model, but it also takes longer to gen
 
 The Ferret scanner is equipped with a high-definition RGB camera, allowing for the capture of true-color textures for 3D models.
 
-![Untitled](pic/Untitled%207.png)
+<div align="center">
+ <img src="pic/Untitled%207.png" width="90%">
+</div>
 
 ### **Import Hitorical Project**
 
