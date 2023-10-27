@@ -13,7 +13,7 @@ To help new users quickly master the scanner’s operation techniques and achiev
 In the Creality Scan software, multiple scanning modes are provided. It is important to choose the appropriate scanning mode for different types of targets.
 
 <div align=center>
-<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-1.jpg" width="400"/>
+<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-1.jpg" width="500"/>
 </div>
 
 **How to choose Feature type?**
@@ -114,7 +114,9 @@ Mobile scanning, PC processing
 
 Ferret supports mobile scanning, which offers great portability. Many Android phones have only 8GB of memory, and the iPhone 12 has only 4GB of memory, while many computers have 16GB of memory. You can choose to scan with your mobile phone first. After completing the scan on your phone, save the model, return to the main interface, then export the project. Later, on your PC, use the "Import Historical Project" feature to import the scanned project file and process it on the computer, thus obtaining a higher-quality 3D model.
 
-![Untitled](pic/Untitled%208.png)
+<div align=center>
+<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-8.png" width="500"/>
+</div>
 
 ### **Multi-project Merging**
 
