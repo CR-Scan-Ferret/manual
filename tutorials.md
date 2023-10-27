@@ -14,7 +14,7 @@ To help new users quickly master the scanner’s operation techniques and achiev
 
 In the Creality Scan software, multiple scanning modes are provided. It is important to choose the appropriate scanning mode for different types of targets.
 
-![Untitled](pic/Untitled%201.png)
+![Untitled](pic/Untitled%201.jpg)
 
 **How to choose Feature type?**
 
@@ -86,7 +86,7 @@ One-click processing is designed for new users who have little experience with 3
 
 Creality Scan provides pointcloud editing functionality. After the point cloud optimization is complete, users can select and delete unwanted points in the point cloud.
 
-![Untitled](pic/Untitled%204.png)
+![Untitled](pic/Untitled%204.jpg)
 
 ### **Meshing**
 
