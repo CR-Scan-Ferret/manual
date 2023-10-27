@@ -198,7 +198,9 @@ The obtained mesh model contains 2.23 million faces.
 
 ***Scan setting:** Large Object, Geometry, Hi-Quality, Resolution 0.5mm.* 
 
-![Untitled](pic/Untitled%2016.png)
+<div align="center">
+ <img src="pic/Untitled%2016.png" width="70%">
+</div>
 
 **Motocycle**
 
@@ -214,7 +216,9 @@ For this case, the pointcloud resolution is set to 1mm.
 **Engine hood panel**
 In this example, the dimensions of the engine hood panel are 592mm x 453mm x 103mm. The inner diameter of the marker is 6mm, and the pointcloud resolution is set to 0.5mm. Scanning setting is shown below.
 
-![Untitled](pic/Untitled%2017.png)
+<div align="center">
+ <img src="pic/Untitled%2017.png" width="80%">
+</div>
 
 The engine hood panel has a largely flat surface with few geometric features. We recommend using the marker point mode for scanning. Place prototype marker points on the surface of the target, and then perform the scan in marker mode. The scanning result is shown below.
 
@@ -237,7 +241,9 @@ Here is a scanning case of a 38cm tall wooden sculpture of a deer.
 
 *Scan setting: Medium object, Geometry mode，Hi-Quality, Resolution = 0.3mm. The number of the mesh faces is 2000k.* 
 
-![Untitled](pic/Untitled%2021.png)
+<div align="center">
+ <img src="pic/Untitled%2021.png" width="80%">
+</div>
 
 ## Black objects
 
@@ -259,9 +265,11 @@ For this type of small object, we recommend using Texture Mode for scanning.
 
 It is important to note that you should apply some marker points on the tabletop beforehand, as shown in the image below. 
 
-![Untitled](pic/Untitled%2023.jpg)
+<div align="center">
+ <img src="pic/Untitled%2023.jpg" width="80%">
+</div>
 
-Also, make sure not to select the option to “Exclude Flat Base”, as shown at the bottom of the scanning window. The software needs to extract features from the tabletop to merge the point clouds together.
+!Also, make sure not to select the option to “Exclude Flat Base”, as shown at the bottom of the scanning window. The software needs to extract features from the tabletop to merge the point clouds together.
 
 ![Untitled](pic/Untitled%2024.png)
 
@@ -289,9 +297,7 @@ The Ferret scanner can be used outdoors when the sunlight intensity is less than
 
 Outdoor Scanning Tutorial:
 
-<p align="center"> <a href="https://www.youtube.com/watch?v=7wRZUl936BY"><img src="./doc/demo_cover.png" width="50%"></a> </p>
-
-
+https://www.youtube.com/watch?v=7wRZUl936BY
 
 # More Video Tutorials
 
