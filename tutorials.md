@@ -289,7 +289,9 @@ The Ferret scanner can be used outdoors when the sunlight intensity is less than
 
 Outdoor Scanning Tutorial:
 
-https://www.youtube.com/watch?v=7wRZUl936BY
+<p align="center"> <a href="https://www.youtube.com/watch?v=7wRZUl936BY"><img src="./doc/demo_cover.png" width="50%"></a> </p>
+
+
 
 # More Video Tutorials
 
