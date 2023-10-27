@@ -12,8 +12,8 @@ To help new users quickly master the scanner’s operation techniques and achiev
 
 In the Creality Scan software, multiple scanning modes are provided. It is important to choose the appropriate scanning mode for different types of targets.
 
-<div align=center>
-<img src="https://github.com/CR-Scan-Ferret/manual/blob/master/pic/Untitled-1.jpg" width="500"/>
+<div align="center">
+ <img src="pic/Untitled-1.jpg" width="70%">
 </div>
 
 **How to choose Feature type?**
@@ -86,7 +86,9 @@ One-click processing is designed for new users who have little experience with 3
 
 Creality Scan provides pointcloud editing functionality. After the point cloud optimization is complete, users can select and delete unwanted points in the point cloud.
 
-![Untitled](pic/Untitled%204.jpg)
+<div align="center">
+ <img src="pic/Untitled%204.jpg" width="70%">
+</div>
 
 ### **Meshing**
 
@@ -156,7 +158,9 @@ If you want to obtain a more detailed mesh model, during the pointcloud optimiza
 
 Below is an example of scanning Nana's face using the Ferret scanner.
 
-![Untitled](pic/Untitled%2012.png)
+<div align="center">
+ <img src="pic/Untitled%2012.png" width="70%">
+</div>
 
 ## Full body
 
@@ -172,7 +176,9 @@ Below is an example of scanning Nana's face using the Ferret scanner.
 
 Below is an example of Nana's body scan.
 
-![Untitled](pic/Untitled%2013.png)
+<div align="center">
+ <img src="pic/Untitled%2013.png" width="80%">
+</div>
 
 How long does it take to scan the full body?
 
@@ -186,7 +192,9 @@ It is recommended to use the Marker Mode for scanning. In the case below, approx
 
 Note that transparent headlights, if not powder sprayed, will cause hollow holes in the generated 3D model at this area.
 
-![Untitled](pic/Untitled%2014.jpg)
+<div align="center">
+ <img src="pic/Untitled%2014.jpg" width="60%">
+</div>
 
 ***Scan settting：**Large Object, Marker Mode, Hi-Quality, Resolution 0.8mm.* 
 
@@ -199,7 +207,7 @@ The obtained mesh model contains 2.23 million faces.
 ***Scan setting:** Large Object, Geometry, Hi-Quality, Resolution 0.5mm.* 
 
 <div align="center">
- <img src="pic/Untitled%2016.png" width="70%">
+ <img src="pic/Untitled%2016.png" width="50%">
 </div>
 
 **Motocycle**
@@ -217,7 +225,7 @@ For this case, the pointcloud resolution is set to 1mm.
 In this example, the dimensions of the engine hood panel are 592mm x 453mm x 103mm. The inner diameter of the marker is 6mm, and the pointcloud resolution is set to 0.5mm. Scanning setting is shown below.
 
 <div align="center">
- <img src="pic/Untitled%2017.png" width="80%">
+ <img src="pic/Untitled%2017.png" width="70%">
 </div>
 
 The engine hood panel has a largely flat surface with few geometric features. We recommend using the marker point mode for scanning. Place prototype marker points on the surface of the target, and then perform the scan in marker mode. The scanning result is shown below.
@@ -251,7 +259,9 @@ The Ferret scanner allows for direct scanning of black objects without the need 
 
 **Key points for scanning black objects:** Increase the exposure time of the IR camera to ensure sufficient brightness in the IR image.
 
-![Untitled](pic/Untitled%2022.png)
+<div align="center">
+ <img src="pic/Untitled%2022.png" width="60%">
+</div>
 
 *Scan setting for the black head model: Medium ojbect, Hi-quality, Geometry mode, Resolution = 0.3mm.*
 
@@ -266,7 +276,7 @@ For this type of small object, we recommend using Texture Mode for scanning.
 It is important to note that you should apply some marker points on the tabletop beforehand, as shown in the image below. 
 
 <div align="center">
- <img src="pic/Untitled%2023.jpg" width="80%">
+ <img src="pic/Untitled%2023.jpg" width="50%">
 </div>
 
 !Also, make sure not to select the option to “Exclude Flat Base”, as shown at the bottom of the scanning window. The software needs to extract features from the tabletop to merge the point clouds together.
